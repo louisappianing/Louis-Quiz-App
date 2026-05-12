@@ -27,8 +27,3 @@ python quiz_app.py
 **Louis Appianing
   louisappianing1@gmail.com
   Akim Oda, Ghnana
-
-## Author
-**Louis Appianing**
-  louisappianing1@gmail.com
-  Akim Oda, Ghana
