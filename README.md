@@ -9,10 +9,10 @@ A fun and educational quiz game that tests your knowledge of the world capitals 
 - 30 questions across 5 continents (5 countries from each continent)
 - Multiple choice questions (A, B, C)
 - Score tracking
-- Timer- Replay feature
+- Timer
 - Grading system (A, B, C, D, F)
 - Replay feature
-- 
+
 ## How To Run
 1. Make sure Python is installed
 2. Clone this repository
